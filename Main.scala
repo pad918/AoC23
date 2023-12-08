@@ -1,8 +1,8 @@
 object Main {
   @main
   def main(): Unit = {
-    println("Running day 1:");
-    //Day1.run1()
-    Day1.run2()
+    println("Running day 2:");
+    Day2.run1()
+    Day2.run2()
   }
 }
